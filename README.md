@@ -3,6 +3,9 @@ talewind css
 https://tailwindcss.com/
 
 
+This project is a test react project for playing around with TailWind CSS package which helps to work with CSS
+
+
 
 
 # Getting Started with Create React App
