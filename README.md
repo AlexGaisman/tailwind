@@ -8,6 +8,15 @@ This project is a test react project for playing around with TailWind CSS packag
 
 
 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
